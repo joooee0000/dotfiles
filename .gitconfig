@@ -1,0 +1,8 @@
+[user]
+	email = joooee0000@gmail.com
+	name = joooee0000
+[push]
+	default = simple
+[alias]
+        co = checkout
+        p = !git push origin `git rev-parse --abbrev-ref HEAD`
